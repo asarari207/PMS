@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PMS/static/css/main.e6c13ad2.css",
+    "main.js": "/PMS/static/js/main.db4b336a.js",
+    "static/js/787.54ab60a8.chunk.js": "/PMS/static/js/787.54ab60a8.chunk.js",
+    "static/media/bac.jpg": "/PMS/static/media/bac.ef52e28bb2bf1036d857.jpg",
+    "static/media/nyb.jpg": "/PMS/static/media/nyb.c4f8696edeac56b5afe2.jpg",
+    "index.html": "/PMS/index.html",
+    "main.e6c13ad2.css.map": "/PMS/static/css/main.e6c13ad2.css.map",
+    "main.db4b336a.js.map": "/PMS/static/js/main.db4b336a.js.map",
+    "787.54ab60a8.chunk.js.map": "/PMS/static/js/787.54ab60a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.db4b336a.js"
+  ]
+}
